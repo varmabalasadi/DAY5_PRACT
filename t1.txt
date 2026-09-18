@@ -1,0 +1,6 @@
+https://colab.research.google.com/drive/1ffdREC0iO8QMZRditZpKxpJFXHeRc9Mx?usp=sharing
+
+https://colab.research.google.com/drive/1YTjla2oJMwKULMcQQySOD0FcgIE2fM2b?usp=sharing
+
+important pandas as pd
+df+pd.read_csv('student_dataset_with_missing
